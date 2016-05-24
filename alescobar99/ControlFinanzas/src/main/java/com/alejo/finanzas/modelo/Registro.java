@@ -5,7 +5,6 @@ import java.util.Date;
 
 public class Registro {
 
-  private Date fecha;
   private CuentaContable cuenta;
   private BigDecimal valor;
   private String concepto;

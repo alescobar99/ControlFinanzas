@@ -7,10 +7,10 @@ public class GeneradorInformes {
   public GeneradorInformes() {}
 
   public void generarBalanceGeneral() {
-    
+
   }
-  
+
   public void generarEstadoResultados(Date fecha) {
-    
+
   }
 }

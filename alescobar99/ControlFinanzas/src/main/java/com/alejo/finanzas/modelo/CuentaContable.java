@@ -10,8 +10,7 @@ public class CuentaContable {
 
   public static enum Clasificacion {
 
-    ACTIVO('A', Naturaleza.DEBITO), PASIVO('D', Naturaleza.CREDITO), PATRIMONIO('P',
-        Naturaleza.CREDITO),
+    ACTIVO('A', Naturaleza.DEBITO), PASIVO('D', Naturaleza.CREDITO), PATRIMONIO('P', Naturaleza.CREDITO),
 
     INGRESO('I', Naturaleza.CREDITO), EGRESO('E', Naturaleza.DEBITO);
 
