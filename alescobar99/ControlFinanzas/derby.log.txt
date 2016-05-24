@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 17 11:22:14 COT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0154-2507-9488-000009f329f8 
+on database directory C:\Users\alesc_000\workspace\ControlFinanzas\Data\finanzas.bd with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/alesc_000/workspace/ControlFinanzas/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b18
+user.dir=C:\Users\alesc_000\workspace\ControlFinanzas
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
